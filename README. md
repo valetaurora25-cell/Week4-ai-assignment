@@ -1,19 +1,19 @@
 # Week 4 AI Assignment
 
-Name: Rayc Rayc
+Name: Grace wanjiru
 
-## Question 1: What is Artificial Intelligence?
+## Question 1: What is Data?
 
-Artificial Intelligence (AI) is a field of computer science that focuses on creating machines or systems that can perform tasks that normally require human intelligence. Examples include learning, problem solving, and decision making.
+Data is the information that computers use to learn ,analyze patterns and make decisions.
 
-## Question 2: What is Machine Learning?
 
-Machine Learning (ML) is a branch of Artificial Intelligence that allows computers to learn from data without being explicitly programmed. The system improves its performance as it processes more data.
+## Question 2: What is the difference between structured Data and unstructured Data?
 
-## Question 3: Difference between AI and Machine Learning
+structured data is organized in fixed format usually in rows and columns eg students records, excel spreadsheet while unstructured data does not have a fixed format eg emails, photo
+.
 
-Artificial Intelligence is the broader concept of machines performing intelligent tasks. Machine Learning is a subset of AI that focuses on systems learning from data and improving automatically.
+## Question 3: what is schema 
 
-## Question 4: Example of AI in real life
-
-Examples of AI include voice assistants like Siri, recommendation systems on Netflix, self-driving cars, and chatbots.
+plan that defines how data is arranged in tables, fields, and relationships in database. 
+exammple :structured database usually follows a schema so machines can read and analyze the data correctly. 
+. 
